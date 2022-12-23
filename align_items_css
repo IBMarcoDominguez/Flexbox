@@ -1,0 +1,42 @@
+body{
+    width: 200px;
+}
+
+.flex {
+    display: flex;
+    /*flex-direction: ;example: row,row-reverse,column,column-reverse*/
+    /*flex-wrap:; example: nowrap,wrap,wrap-reverse*/
+    /*flex-flow;: example: row wrap*/
+    /*justify-content:; example: flex-start,flex-end,center,space-between,space-around,space-evenly*/
+    /*align-items: ; example: flex-start,flex-end,center,strech*/
+    /*flex-flow: row wrap;*/
+    /*justify-content: space-evenly;*/
+    /*height: 200px;*/
+    /*align-content: ; example: flex-start,flex-end,center,stretch,space-between,space-around*/
+    /*align-content: space-around;*/
+    display: flex;
+    flex-flow: row wrap;
+    height: 200px;
+}
+
+.red {
+    background-color: red;
+}
+
+.primero {
+    /*flex-basis:1; se utiliza para darle un tamaño inicial a los elementos a lo largo de 1 contenedor*/
+    /*se puede utilizar la forma corta: flex: 1 120px para usar el grow y el basis*/
+    /*flex-grow: 1;*/
+    /*flex-basis: 120px;*/
+    flex: 1 120px;
+}
+
+.tercero {
+    flex-grow: 2;
+    /*    align-self: ;, example: auto,self-start,center,baseline,stretch*/
+    align-self: stretch;
+}
+
+.segundo{
+    flex-grow: 1;
+}
