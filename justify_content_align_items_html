@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Flexbox</title>
+        <link rel="stylesheet" href="Justify-content_align-items.css" type="text/css" />
+    </head>
+    <body>
+        <div class="flex">
+            <div class="red">
+                <div>ABC</div>
+                <div>ABC</div>
+            </div>
+            <div>
+                <div>BCD</div>
+                <div>BCD</div>
+                <div>BCD</div>
+            </div>
+            <div>Abc</div>
+            <div>Bcd</div>
+            <div>Cef</div>
+            <div>Dfe</div>
+            <div>Ecdef</div>
+            <div>Abc</div>
+            <div>Bcd</div>
+            <div>Cef</div>
+            <div>Dfe</div>
+            <div>Ecdef</div>
+            <div>Abc</div>
+            <div>Bcd</div>
+            <div>Cef</div>
+            <div>Dfe</div>
+            <div>Ecdef</div>
+            <div>Abc</div>
+            <div>Bcd</div>
+            <div>Cef</div>
+            <div>Dfe</div>
+            <div>Ecdef</div>
+        </div>
+    </body>
+</html>
