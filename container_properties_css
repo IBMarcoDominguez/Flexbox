@@ -1,0 +1,11 @@
+body{
+    width: 200px;
+}
+
+.flex {
+    display: flex;
+    /*flex-direction: ;example: row,row-reverse,column,column-reverse*/
+    /*flex-wrap:; example: nowrap,wrap,wrap-reverse*/
+    /*flex-flow;: example: row wrap*/
+    flex-flow: row wrap;
+}
