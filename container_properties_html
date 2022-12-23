@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Flexbox</title>
+        <link rel="stylesheet" href="PropiedadesContenedor.css" type="text/css" />
+    </head>
+    <body>
+        <div class="flex">
+            <div>Abc</div>
+            <div>Bcd</div>
+            <div>Cef</div>
+            <div>Dfe</div>
+            <div>Ecdef</div>
+            <div>Abc</div>
+            <div>Bcd</div>
+            <div>Cef</div>
+            <div>Dfe</div>
+            <div>Ecdef</div>
+            <div>Abc</div>
+            <div>Bcd</div>
+            <div>Cef</div>
+            <div>Dfe</div>
+            <div>Ecdef</div>
+            <div>Abc</div>
+            <div>Bcd</div>
+            <div>Cef</div>
+            <div>Dfe</div>
+            <div>Ecdef</div>
+        </div>
+    </body>
+</html>
